@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nikola</h1>
-<h3 align="center">a passionate full-stack developer deeply immersed in JDK-based technologies along with React.js, Angular and AWS and GCP Cloud Services.</h3>
+<h4 align="left">a passionate full-stack developer deeply immersed in JDK-based technologies along with React.js, Angular and AWS and GCP Cloud Services building monolith and scalable microservice applications.</h4>
 
-<h3 align="left">MyTech stack:</h3>
+<h3 align="left">My tech stack:</h3>
 <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
