@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nikola</h1>
-<h4 align="left">a passionate full-stack developer deeply immersed in JDK-based technologies along with React.js, Angular and AWS and GCP Cloud Services building monolith and scalable microservice applications.</h4>
+## Hi 👋, I'm Nikola</h1>
+<p>a Software Engineer with passion and experience which spans from building full-stack monolith web applications to microservices built using Cloud-based services. I also experinece in building custom solutions in Data Engineering and keen intrest in DevOps.</p>
 
 <h3 align="left">My tech stack:</h3>
 <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
